@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3 align="center">My name is Ifeora Okechukwu Patrick. 8+ years doing software jobs. <br> Also, i am an upcoming indie hacker. <br> I build beautiful software (mostly dev tooling) that works on the web! 😎🙌🏾 </h3>
+<h3 align="center">I love puzzles and experiments. 8+ years doing software jobs. <br> Also, i am an <a href="https://oparand-home.surge.sh/products.html">upcoming indie hacker</a>. <br> I build beautiful software (mostly dev tooling) that works on the web! 😎🙌🏾. <br> You can find me on <a href="https://www.youtube.com/@ifeoraokechukwu">my YouTube channel</a> yapping about software stuff.</h3>
 <br><br><br>
 
 <div align="center">
