@@ -9,10 +9,10 @@
 >🌱 I’m currently learning [**Golang**](https://go.dev/) and [**Elixir**](https://elixir-lang.org/)<br>
 >👯 I’m looking to collaborate on [**laravel-groquel**](https://github.com/isocroft/laravel-groquel)<br>
 >🤔 I’m looking for help with [**pptx**](https://github.com/isocroft/pptx)<br>
->💬 Ask me about _Software Testing_, _Modular Monoliths/Microservices_ and _Open Source_<br>
->📫 How to reach me: isocroft\[art\]gmail\[dot\]com<br>
+>💬 Ask me about _Software Testing_, _Modular Monoliths/Microservices_, _Concurreny_ and _Open Source_<br>
+>📫 How to reach me: isocroft\[art\]gmail\[dort\]com<br>
 >😄 Pronouns: Nil<br>
->⚡ Fun fact: Music hobyist, Gadget freak, I like to play with soap bubbles 😂
+>⚡ Fun fact: Music hobyist, Gadget freak, I love me some "je ne sais quoi" moments 😂
 
 </div>
 <br><br><br>
