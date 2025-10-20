@@ -1,15 +1,19 @@
 ## Hi there 👋
 
-<h3 align="center">I love puzzles and experiments. 4+ years doing software jobs. <br> Also, i am an <a href="https://oparand-home.surge.sh/products.html">upcoming indie hacker</a>. <br> I build beautiful software (mostly dev tooling) that works on the web! 😎🙌🏾. <br> You can find me on <a href="https://www.youtube.com/@ifeoraokechukwu">my YouTube channel</a> yapping about software stuff.</h3>
+<h3 align="center">I love puzzles and experiments. 7+ years building software systems in EdTech, FinTech, E-commerceTech and ProuctivityTech. <br> Also, i am an <a href="https://oparand-home.surge.sh/products.html">upcoming indie hacker</a>. <br> I build beautiful software (mostly dev tooling) that works on the web! 😎🙌🏾. <br> You can find me on <a href="https://www.youtube.com/@ifeoraokechukwu">my YouTube channel</a> yapping about software stuff.</h3>
+
 <br><br><br>
 
 <div align="center">
- 
+
+>🥽 I'm very good at debugging and troubleshooting software bugs annd defects.
+>🎒 I'm also very productive with no-code tools (Zapier, AirTable and Webflow).
 >🔭 I’m currently working on [**react-busser**](https://github.com/codesplinta/busser), [**react-busser-headless-ui**](https://github.com/isocroft/react-busser-headless-ui) and [**urisanity**](https://github.com/codesplinta/URISanity)<br>
 >🌱 I’m currently learning [**Golang**](https://go.dev/) and [**Elixir**](https://elixir-lang.org/)<br>
 >👯 I’m looking to collaborate on [**laravel-groquel**](https://github.com/isocroft/laravel-groquel)<br>
 >🤔 I’m looking for help with [**pptx**](https://github.com/isocroft/pptx)<br>
->💬 Ask me about _Software Testing_, _Modular Monoliths/Microservices_, _Concurreny_ and _Open Source_<br>
+>💬 Ask me about _Software Testing_, _Modular Monoliths/Microservices_, _Web App Security_, _Sotfware Concurrency_, _Data Structure + Algos_, and _Open Source_<br>
+>💯 I currently volunteer at @sysdsgn to help spread the world aout how awesome Arican sotware engineers are!!
 >📫 How to reach me: isocroft\[art\]gmail\[dort\]com<br>
 >😄 Pronouns: Nil<br>
 >⚡ Fun fact: Music hobyist, Gadget freak, I love me some "je ne sais quoi" moments 😂
