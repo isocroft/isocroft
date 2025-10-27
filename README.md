@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3 align="center">I love puzzles and experiments. 7+ years building software systems in EdTech, FinTech, E-commerceTech and ProuctivityTech. <br> Also, i am an <a href="https://oparand-home.surge.sh/products.html">upcoming indie hacker</a>. <br> I build beautiful software (mostly dev tooling) that works on the web! 😎🙌🏾. <br> You can find me on <a href="https://www.youtube.com/@ifeoraokechukwu">my YouTube channel</a> yapping about software stuff.</h3>
+<h3 align="center">I love puzzles and experiments. 7+ years building software systems in EdTech, FinTech, E-commerceTech and ProuctivityTech. <br> Also, i am an <a href="https://oparand-home.surge.sh/products.html">upcoming indie hacker</a>. <br> I build beautiful software (mostly dev tooling) that works on the web! 😎🙌🏾. <br> You can find me on <a href="https://www.youtube.com/@ifeoraokechukwu">my YouTube channel</a> or <a hre="https://isocroft.medium.com/">my Medium blog</a> yapping about software and non-software stuff.</h3>
 
 <br><br><br>
 
@@ -15,7 +15,7 @@
 >🤔 I’m looking for help with [**pptx**](https://github.com/isocroft/pptx)<br>
 >💯 I currently volunteer at @sysdsgn to help spread the word about how awesome African software engineers are!!<br>
 >📫 How to reach me: isocroft\[art\]gmail\[dort\]com<br>
->⚡ Fun fact: Music hobyist, Gadget freak, I love me some "je ne sais quoi" moments 😂
+>⚡ Fun fact: Music hobbyist, Gadget freak, I love me some "je ne sais quoi" moments 😂
 
 <br><br><br>
 
