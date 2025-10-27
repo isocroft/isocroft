@@ -8,7 +8,7 @@
 
 >🥽 I'm very good at debugging and troubleshooting software bugs annd defects.<br>
 >🎒 I'm also very productive with no-code tools (Zapier, AirTable, Metabase and Webflow).<br>
->🔭 I’m currently actively working on [**react-busser**](https://github.com/codesplinta/busser), [**react-busser-headless-ui**](https://github.com/isocroft/react-busser-headless-ui) and [**urisanity**](https://github.com/codesplinta/URISanity).<br>
+>🔭 I’m currently actively working on [**react-busser**](https://github.com/codesplinta/busser), [**react-busser-headless-ui**](https://github.com/isocroft/react-busser-headless-ui) and [**urisanity**](https://github.com/codesplinta/URISanity) and other side projects.<br>
 >🎱 I am really eager about getting back to tinkering/working with electronics and PCB circuits + SCADA/PLC programming with Structured Text<br>
 >🌱 I’m currently learning [**Golang**](https://go.dev/) and [**Elixir**](https://elixir-lang.org/)<br>
 >👯 I’m looking to collaborate on [**laravel-groquel**](https://github.com/isocroft/laravel-groquel)<br>
