@@ -6,19 +6,32 @@
 
 <div align="center">
 
->🥽 I'm very good at debugging and troubleshooting software bugs annd defects.
->🎒 I'm also very productive with no-code tools (Zapier, AirTable and Webflow).
->🔭 I’m currently working on [**react-busser**](https://github.com/codesplinta/busser), [**react-busser-headless-ui**](https://github.com/isocroft/react-busser-headless-ui) and [**urisanity**](https://github.com/codesplinta/URISanity)<br>
+>🥽 I'm very good at debugging and troubleshooting software bugs annd defects.<br>
+>🎒 I'm also very productive with no-code tools (Zapier, AirTable, Metabase and Webflow).<br>
+>🔭 I’m currently actively working on [**react-busser**](https://github.com/codesplinta/busser), [**react-busser-headless-ui**](https://github.com/isocroft/react-busser-headless-ui) and [**urisanity**](https://github.com/codesplinta/URISanity).<br>
+> I am really eager about getting back to tinkering/working with electronics and PCB circuit + SCADA/PLC programming with Structured Text
 >🌱 I’m currently learning [**Golang**](https://go.dev/) and [**Elixir**](https://elixir-lang.org/)<br>
 >👯 I’m looking to collaborate on [**laravel-groquel**](https://github.com/isocroft/laravel-groquel)<br>
 >🤔 I’m looking for help with [**pptx**](https://github.com/isocroft/pptx)<br>
->💬 Ask me about _Software Testing_, _Modular Monoliths/Microservices_, _Web App Security_, _Sotfware Concurrency_, _Data Structure + Algos_, and _Open Source_<br>
->💯 I currently volunteer at @sysdsgn to help spread the world aout how awesome Arican sotware engineers are!!
+>💯 I currently volunteer at @sysdsgn to help spread the word about how awesome African software engineers are!!<br>
 >📫 How to reach me: isocroft\[art\]gmail\[dort\]com<br>
->😄 Pronouns: Nil<br>
 >⚡ Fun fact: Music hobyist, Gadget freak, I love me some "je ne sais quoi" moments 😂
 
+<br><br><br>
+
+<p align="left">
+💬 Ask me about:<br><br>
+   - <b>Useful Software Testing</b><br>
+   - <b>Modular Monoliths/Modular Microservices</b><br>
+   - <b>Web Application Security</b><br>
+   - <b>Sotfware Concurrency Control</b><br>
+   - <b>Data Structures + Algorithms</b><br>
+   - <i>and</i> <b>Open Source</b><br>
+  <br><br><span>and i will do my best to answer and help...😉</span>
+</p>
+
 </div>
+
 <br><br><br>
 
 <h4 align="center">
