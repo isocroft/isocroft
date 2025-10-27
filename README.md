@@ -9,7 +9,7 @@
 >🥽 I'm very good at debugging and troubleshooting software bugs annd defects.<br>
 >🎒 I'm also very productive with no-code tools (Zapier, AirTable, Metabase and Webflow).<br>
 >🔭 I’m currently actively working on [**react-busser**](https://github.com/codesplinta/busser), [**react-busser-headless-ui**](https://github.com/isocroft/react-busser-headless-ui) and [**urisanity**](https://github.com/codesplinta/URISanity).<br>
-> I am really eager about getting back to tinkering/working with electronics and PCB circuit + SCADA/PLC programming with Structured Text
+>🎱 I am really eager about getting back to tinkering/working with electronics and PCB circuits + SCADA/PLC programming with Structured Text<br>
 >🌱 I’m currently learning [**Golang**](https://go.dev/) and [**Elixir**](https://elixir-lang.org/)<br>
 >👯 I’m looking to collaborate on [**laravel-groquel**](https://github.com/isocroft/laravel-groquel)<br>
 >🤔 I’m looking for help with [**pptx**](https://github.com/isocroft/pptx)<br>
@@ -35,7 +35,7 @@
 <br><br><br>
 
 <h4 align="center">
-  This section is about what technologies I've worked with and what I use almost in my day-to-day activities.
+  This section is about the technologies I've worked with and what I use almost always in my day-to-day activities.
 </h4>
 <p align= "center"><b>My tech stack toolbox 🛠 includes the following:</p>
 
