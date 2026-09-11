@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<h3 align="center">I love puzzles and experiments. I have 7+ years of expereince building software systems in <em>EdTech, FinTech, E-commerceTech and ProductivityTech</em>. <br> Also, i am an <a href="https://oparand-home.surge.sh/products.html">upcoming indie hacker</a>. <br> I build beautiful software (mostly dev tooling) that works on the web! 😎🙌🏾. <br><br><br>You can find me on <a href="https://www.youtube.com/@ppowtech">my YouTube channel</a> or <a href="https://isocroft.medium.com/">my Medium blog</a> yapping about software and non-software stuff!</h3>
+<h3 align="center">I love puzzles and experiments. I have 7+ years of experience building software systems in <em>EdTech, FinTech, E-commerceTech and ProductivityTech</em>. <br> Also, i am an <a href="https://oparand-home.surge.sh/products.html">upcoming indie hacker</a>. <br> I build beautiful software (mostly dev tooling) that works on the web! 😎🙌🏾. <br><br><br>You can find me on <a href="https://www.youtube.com/@ppowtech">my YouTube channel</a> or <a href="https://isocroft.medium.com/">my Medium blog</a> yapping about software and non-software stuff!</h3>
 
 <br><br><br>
 
 <div align="center">
 
->🥽 I'm very good at debugging and troubleshooting software bugs annd defects.<br>
->🎒 I'm also very productive with no-code tools (Zapier, AirTable, Metabase and Webflow).<br>
->🔭 I’m currently actively working on [**react-busser**](https://github.com/codesplinta/busser), [**react-busser-headless-ui**](https://github.com/isocroft/react-busser-headless-ui) and [**urisanity**](https://github.com/codesplinta/URISanity) and other side projects.<br>
+>🥽 I'm very good at debugging and troubleshooting software bugs and defects.<br>
+>🎒 I'm also very productive with no-code tools (**Zapier, AirTable, Metabase and Webflow**).<br>
+>🔭 I’m currently actively working on [**react-busser**](https://github.com/codesplinta/busser), [**react-busser-headless-ui**](https://github.com/isocroft/react-busser-headless-ui), [**ontology-schema-gen**](https://github.com/isocroft/ontology-schema-gen) and [**antro**](https://github.com/coolandcodes/antro) and other side projects.<br>
 >🎱 I really want to get back to tinkering/working with electronics and PCB circuits + SCADA/PLC programming with Structured Text<br>
->🌱 I’m currently learning [**Zig**](https://ziglang.org/), [**Golang**](https://go.dev/) and [**Elixir**](https://elixir-lang.org/)<br>
+>🌱 I’m currently learning [**Rust**](https://rust-lang.org/), [**Golang**](https://go.dev/) and [**Elixir**](https://elixir-lang.org/)<br>
 >👯 I’m looking to collaborate on [**laravel-groquel**](https://github.com/isocroft/laravel-groquel)<br>
 >🤔 I’m looking for help with [**pptx**](https://github.com/isocroft/pptx)<br>
 >💯 I currently volunteer at **@sysdsgn** to help spread the word about how awesome African software engineers are!!<br>
@@ -27,7 +27,7 @@
    - <b>Sotfware Concurrency Control</b><br>
    - <b>Data Structures + Algorithms</b><br>
    - <i>and</i> <b>Open Source</b><br>
-  <br><br><span>and i will do my best to answer and help...😉</span>
+  <br><br><span>and I will do my best to answer and help...😉</span>
 </p>
 
 </div>
