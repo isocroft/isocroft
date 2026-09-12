@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3 align="center">I love puzzles and experiments. I have 7+ years of experience building software systems in <em>EdTech, FinTech, E-commerceTech and ProductivityTech</em>. <br> Also, i am an <a href="https://oparand-home.surge.sh/products.html">upcoming indie hacker</a>. <br> I build beautiful software (mostly dev tooling) that works on the web! 😎🙌🏾. <br><br><br>You can find me on <a href="https://www.youtube.com/@ppowtech">my YouTube channel</a> or <a href="https://isocroft.medium.com/">my Medium blog</a> yapping about software and non-software stuff!</h3>
+<h3 align="center">I love puzzles and experiments. I have 7+ years of experience building software systems in <em>EdTech, FinTech, E-commerceTech and ProductivityTech</em>. <br> Also, i am an <a href="https://oparand-home.surge.sh/products.html">upcoming indie hacker</a>. <br> I build beautiful software (mostly dev tooling) that works on the web! 😎🙌🏾. <br><br><br>You can find me on <a href="https://www.youtube.com/@ppowtech">my YouTube channel</a> or <a href="https://isocroft.medium.com/">my Medium blog</a> yapping about software and other stuff!</h3>
 
 <br><br><br>
 
@@ -11,9 +11,9 @@
 >🔭 I’m currently actively working on [**react-busser**](https://github.com/codesplinta/busser), [**react-busser-headless-ui**](https://github.com/isocroft/react-busser-headless-ui), [**ontology-to-schema-gen**](https://github.com/isocroft/ontology-to-schema-gen) and [**antro**](https://github.com/coolandcodes/antro) and other side projects.<br>
 >🎱 I really want to get back to tinkering/working with electronics and PCB circuits + SCADA/PLC programming with Structured Text<br>
 >🌱 I’m currently learning [**Rust**](https://rust-lang.org/), [**Golang**](https://go.dev/) and [**Elixir**](https://elixir-lang.org/)<br>
->👯 I’m looking to collaborate on [**laravel-groquel**](https://github.com/isocroft/laravel-groquel)<br>
+>👯 I’m looking to collaborate on [**laravel-groquel**](https://github.com/isocroft/laravel-groquel) and [**Kryeion**](https://github.com/stitchng/Kryeion) <br>
 >🤔 I’m looking for help with [**pptx**](https://github.com/isocroft/pptx)<br>
->💯 I currently volunteer at **@sysdsgn** to help spread the word about how awesome African software engineers are!!<br>
+>💯 I currently volunteer at [**@sysdsgn**](https://www.linkedin.com/company/sysconf-by-sysdsgn/) to help spread the word about how awesome African software engineers are!!<br>
 >📫 How to reach me: isocroft\[art\]gmail\[dort\]com<br>
 >⚡ Fun fact: Music hobbyist, Gadget freak, I love me some "je ne sais quoi" moments 😂
 
@@ -24,6 +24,7 @@
    - <b>Useful Software Testing</b><br>
    - <b>Modular Monoliths/Modular Microservices</b><br>
    - <b>Web Application Security</b><br>
+   - <b>Web Application Performance Tunning</b><br>
    - <b>Sotfware Concurrency Control</b><br>
    - <b>Data Structures + Algorithms</b><br>
    - <i>and</i> <b>Open Source</b><br>
@@ -60,7 +61,8 @@
 | <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>                                  | <code><img height="30" width="30"  src="https://res.cloudinary.com/dgqfojhx4/image/upload/v1674506214/brimble-assets/react_enqbki.svg"></code>                        | <code><img height="50" src="https://cdn.simpleicons.org/mongodb"></code>       | <a href="https://netlify.com"><img height="30" width="30" src="https://res.cloudinary.com/dgqfojhx4/image/upload/v1686909209/brimble-assets/netlify_bwxw0a.svg"></a> |
 | <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>                    | <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code> | <code><img height="30" width="30" src="https://cdn.simpleicons.org/mysql"></code> | <!--<code></code>-->  |
 | <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>                | <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code> | <!--<code></code>-->                                                     | <!--<code></code>-->  |
-| <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>          | <code><img height="30" width="30" src="https://res.cloudinary.com/dgqfojhx4/image/upload/v1686908051/brimble-assets/fastapi-1_xr24t8.svg"></code>                    | <!--<code></code>-->                                                     | <!--<code></code>-->  
+| <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>          | <code><img height="30" width="30" src="https://res.cloudinary.com/dgqfojhx4/image/upload/v1686908051/brimble-assets/fastapi-1_xr24t8.svg"></code>                    | <!--<code></code>-->                                                     | <!--<code></code>-->  |
+| <code><img height="30" src="https://cdn.simpleicons.org/go"></code> | <!--<code></code>--> | <!--<code></code>-->|  <!--<code></code>--> |
 
 </div>
 
